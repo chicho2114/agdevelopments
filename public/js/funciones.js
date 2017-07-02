@@ -1,11 +1,11 @@
-/*$( window ).load(function() {
+$( window ).load(function() {
     $('#cargando').fadeOut(300);
 
     $('html, body').animate({
         scrollTop: $("#sectionServicios").offset().top
     }, 2000);
     
-});*/
+});
 
 $("#ContactForm").on('submit', function() {
     

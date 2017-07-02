@@ -27,7 +27,7 @@
 
     </script>
 
-    {{--<style type="text/css">
+    <style type="text/css">
         #cargando {
             position: absolute;
             width:100%;
@@ -42,12 +42,12 @@
             margin-right: auto;
             align-content: center;
         }
-    </style> --}}
+    </style>
 
 </head>
 <body id="top" class="scrollspy">
 <!-- Loader -->
-{{--<div id="cargando" class="center-block">
+<div id="cargando" class="center-block">
     <div class="progress blue-grey darken-3">
       <div class="indeterminate blue"></div>
     </div>
@@ -67,7 +67,7 @@
           <br>
           <p>Cargando</p>
     </div>
-</div> --}}
+</div>
 
 <!--Navigation-->
  <div class="navbar-fixed">
